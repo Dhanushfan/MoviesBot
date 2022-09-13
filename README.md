@@ -74,7 +74,7 @@ To Customise Developer Name , Support Channel And Update Channel .
 * If u Dont Know How Edit Codes Then Leave It or Contact Me Through Below Links 
 
 ### 📤 Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/CrimzBots/MoviesBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Dhanushfan/MoviesBot?organization=Dhanushfan&organization=Dhanushfan"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <hr>
 
