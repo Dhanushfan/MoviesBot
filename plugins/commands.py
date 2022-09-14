@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url='https://t.me/Crimz_Bots')
+                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url='https://t.me/GKP_Movie_Corner')
             ],
             [
                 InlineKeyboardButton('ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -50,10 +50,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ʜᴇʀᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/iAmLiKu1'),
-            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/Crimz_Support')
+            InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Dhanush_Fan_Da'),
+            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/GKP_Movie_Request_2022')
             ],[
-            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/Crimz_Bots'),
+            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/GKP_Movie_Corner'),
             ],[
             InlineKeyboardButton('✗ sᴛᴏᴘ Mᴇ 😴', callback_data='close_data')
         ]]
@@ -106,10 +106,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ʜᴇʀᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/iAmLiKu1'),
-            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/Crimz_Support')
+            InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Dhanush_Fan_Da'),
+            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/GKP_Movie_Request_2022')
             ],[
-            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/Crimz_Bots'),
+            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/GKP_Movie_Corner'),
             ],[
             InlineKeyboardButton('✗ sᴛᴏᴘ Mᴇ 😴', callback_data='close_data')
         ]]
@@ -258,11 +258,11 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/Crimz_Support'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/iAmLiKu1')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/GKP_Movie_Request_2022'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/Dhanush_Fan_Da')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/Crimz_Support')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/GKP_Movie_Corner')
         ]
         ]
     await client.send_cached_media(
