@@ -167,8 +167,8 @@ async def next_page(bot, query):
             )
     btn.insert(0,
             [
-                InlineKeyboardButton("🔘 Group", url="https://t.me/+nam0eRztrW84ZGM1"),
-                InlineKeyboardButton("Dev 🔘", url="https://t.me/iAmLiKu1")
+                InlineKeyboardButton("🔘 Group", url="https://t.me/GKP_Movie_Request_2022"),
+                InlineKeyboardButton("Dev 🔘", url="https://t.me/Dhanush_Fan_Da")
             ])
 
     btn.insert(0, [
@@ -207,7 +207,7 @@ async def advantage_spoll_choker(bot, query):
         else:
             k = await query.message.edit('👋 𝙷𝙸, 𝚂𝙾𝚁𝚁𝚈 🤕 𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 𝚃𝙾 𝙳𝙰𝚃𝚂𝙱𝙰𝚂𝙴 💌')
             button = [
-                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/Crimz_Support')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/GKP_Movie_Corner')
               ]
             await asyncio.sleep(10)
             await k.delete()
